@@ -1,14 +1,14 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
 </head>
 <body>
-<h1>╨Я╧п╧Ьхё╟║ юод║гоаЖ ╬й╫ю╢о╢ы.</h1>
+<h1>К╧└К╟─К╡┬М≤╦Й╟─ Л²╪Л╧≤М∙≤Л╖─ Л∙┼Л┼╣К▀┬К▀╓.</h1>
 
-<a href="/subwaySpringMVC/login">╥н╠вюнго╥а╦И ©╘╠Б╦╕ е╛╦╞го╪╪©Д.</a>
+<a href="/subwaySpringMVC/login">К║°Й╥╦Л²╦М∙≤К═╓К╘╢ Л≈╛Й╦╟К╔╪ М│╢К╕╜М∙≤Л└╦Л ■.</a>
 </body>
 </html>
