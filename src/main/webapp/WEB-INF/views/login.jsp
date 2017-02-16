@@ -36,7 +36,7 @@ div.ex {
 
 				<tr>
 					<td>login</td>
-					<td><input type="submit" name="login" /></td>
+					<td><input type="submit" name="login" value="로그인"/></td>
 				</tr>
 
 			</table>
