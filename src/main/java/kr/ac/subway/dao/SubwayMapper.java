@@ -12,6 +12,10 @@ public class SubwayMapper implements RowMapper<Subway> {
 	public Subway mapRow(ResultSet rs, int rowNum) throws SQLException {
 		// TODO Auto-generated method stub
 		Subway subway = new Subway();
+		subway.setDate(rs.getString("date"));
+		subway.setTemperature(rs.getString("temperature"));
+		subway.setHumidity(rs.getString("humidity"));
+		
 		return subway;
 	}
 
